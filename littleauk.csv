@@ -26,91 +26,91 @@ full.id,sample.id,sampler,particle.number,colour,shape,length,on.tape,raman.ID,F
 25_69,25,Alex,NA,NA,NA,NA,NA,,,,,NA,25,6,209.398,Adult,Empty
 26_51,26,Alex,NA,NA,NA,NA,NA,,,,,NA,26,1,121.92,Adult,Full
 27_107,27,Alex,41,red,fragment,169.24,no,,,lost in transport,,Unknown,27,1,121.92,Adult,Full
-27_107,27,Alex,43,olive,fragment,305.38,no ,,,lost in transport,,Unknown,28,1,121.92,Adult,Full
-28_97,28,Alex,NA,NA,NA,NA,NA,,,,,NA,29,5,283.769,Adult,Full
-29_84,29,Alex,181,yellow green,fragment,149.84,yes,unknown,unknown,green dye signature - try FTIR,got tape signature,Unknown,30,5,283.769,Adult,Full
-30_39,30,Alex,NA,NA,NA,NA,NA,,,,,NA,31,8,227.076,Adult,Full
-31_51,31,Alex,NA,NA,NA,NA,NA,,,,,NA,32,9,151.486,Adult,Empty
-32_07,32,Alex,NA,NA,NA,NA,NA,,,,,NA,33,10,157.886,Adult,Full
-33_11,33,Alex,59,olive,fragment,429.46,no ,,,,,Unknown,34,7,176.174,Adult,Full
-33_11,33,Alex,60,blue,fragment,214.02,yes,unknown,rubber,dye signature,,Rubber,35,Chick nests (not in plot),154.534,Chick,NA
-34_120,34,Alex,NA,NA,NA,NA,NA,,,,,NA,36,Chick nests (not in plot),165.154,Chick,NA
-35_22,35,Alex,174,red,fragment,103.45,yes,titanium dioxide,unknown,Rutile signature and rusty colour suggest it's a natural mineral.,got tape signature,Mineral,37,7,176.174,Adult,Full
-36_22,36,Alex,NA,NA,NA,NA,NA,,,,,NA,38,Chick nests (not in plot),155.143,Chick,NA
-37_126,37,Alex,28,blue,fragment,276.11,yes,blue dye,unknown,likely plastic,got tape signature,Unknown,39,4,294.437,Adult,Full
-38_16,38,Alex,NA,NA,NA,NA,NA,,,,,NA,40,2,160.63,Adult,Full
-39_70,39,Alex,NA,NA,NA,NA,NA,,,,,NA,41,6,209.398,Adult,Full
-40_64,40,Alex,NA,NA,NA,NA,NA,,,,,NA,42,5,283.769,Adult,Full
-41_106,41,Alex,NA,NA,NA,NA,NA,,,,,NA,43,2,160.63,Chick,NA
-42_75,42,Alex,NA,NA,NA,NA,NA,,,,,NA,44,3,274.625,Adult,Full
-43_44,43,Alex,69,blue,fragment,114.21,no,,,broke apart,,Unknown,45,1,121.92,Adult,Full
-44_23,44,Alex,NA,NA,NA,NA,NA,,,,,NA,46,8,227.076,Adult,Full
-45_28,45,Alex,NA,NA,NA,NA,NA,,,,,NA,47,6,209.398,Adult,Full
-46_45,46,Alex,109,clear,film,280.1,yes,,synthetic rubber (chloroprene),,,Synthetic rubber,48,Chick nests (not in plot),116.434,Chick,NA
-47_46,47,Alex,NA,NA,NA,NA,NA,,,,,NA,49,2,160.63,Adult,Full
-48_130,48,Alex,NA,NA,NA,NA,NA,,,,,NA,50,1,121.92,Adult,Empty
-49_129,49,Alex,157,red,fragment,174.66,yes,lepidocrocite (mineral),unknown,mineral,got tape signature,Mineral,51,3,274.625,Adult,Full
-50_90,50,Alex,NA,NA,NA,NA,NA,,,,,NA,52,1,121.92,Adult,Full
-51_90,51,Garth,NA,NA,NA,NA,NA,,,,,NA,53,10,157.886,Adult,Full
-52_33,52,Garth,NA,NA,NA,NA,NA,,,,,NA,54,9,151.486,Adult,Full
-53_10,53,Garth,NA,NA,NA,NA,NA,,,,,NA,55,2,160.63,Adult,Full
-54_8,54,Garth,198,clear,film,584.74,yes,,chitin from crustacean shell,might be natural,,Chitinous shell,56,2,160.63,Adult,Full
-55_37,55,Garth,NA,NA,NA,NA,NA,,,,,NA,57,8,227.076,Adult,Empty
-56_36,56,Garth,199,yellow,fragment,510.59,yes,epidote (mineral),unknown,,no good match,Mineral,58,Chick nests (not in plot),169.469,Chick,NA
-57_20,57,Garth,NA,NA,NA,NA,NA,,,,,NA,59,5,283.769,Adult,Full
-58_19,58,Garth,200,pink,fragment,432.37,yes,,polypropylene,,,Polypropylene,60,6,209.398,Adult,Full
-59_94,59,Garth,NA,NA,NA,NA,NA,,,,,NA,61,8,227.076,Adult,Full
-60_105,60,Garth,NA,NA,NA,NA,NA,,,,,NA,62,3,274.625,Adult,Full
-61_86,61,Garth,201,black,fragment,120.96,yes,unknown,,can't get a good spectra,,Unknown,63,6,209.398,Adult,Full
-62_85,62,Garth,NA,NA,NA,NA,NA,,,,,NA,64,6,209.398,Adult,Full
-63_98,63,Garth,NA,NA,NA,NA,NA,,,,,NA,65,6,209.398,Adult,Full
-64_87,64,Garth,NA,NA,NA,NA,NA,,,,,NA,66,6,209.398,Adult,Empty
-65_99,65,Garth,202,pink,gel,508.77,yes,unknown,unknown,can't get a good spectra,got tape signature,Unknown,67,6,209.398,Adult,Full
-66_35,66,Garth,NA,NA,NA,NA,NA,,,,,NA,68,6,209.398,Adult,Empty
-67_82,67,Garth,NA,NA,NA,NA,NA,,,,,NA,69,4,294.437,Adult,Full
-67_96,68,Garth,203,blue,fragment,751.33,yes,,PET,,,Polyethylene terepthalate,70,3,274.625,Adult,Full
-69_56,69,Garth,NA,NA,NA,NA,NA,,,,,NA,71,10,157.886,Adult,Full
-70_38,70,Garth,NA,NA,NA,NA,NA,,,,,NA,72,Chick nests (not in plot),159.41,Chick,NA
-71_12,71,Garth,NA,NA,NA,NA,NA,,,,,NA,73,8,227.076,Adult,Full
-72_18,72,Garth,NA,NA,NA,NA,NA,,,,,NA,74,10,157.886,Adult,Empty
-73_05,73,Garth,204,green,fragment,362.46,yes,plattnerite,unknown,,no good match,Mineral,75,Chick nests (not in plot),162.154,Chick,NA
-74_17,74,Garth,NA,NA,NA,NA,NA,,,,,NA,76,1,121.92,Adult,Empty
-75_15,75,Garth,NA,NA,NA,NA,NA,,,,,NA,77,6,209.398,Adult,Full
-76_57,76,Garth,NA,NA,NA,NA,NA,,,,,NA,78,1,121.92,Adult,Empty
-77_74,77,Garth,NA,NA,NA,NA,NA,,,,,NA,79,1,121.92,Adult,Full
-78_43,78,Garth,NA,NA,NA,NA,NA,,,,,NA,80,1,121.92,Adult,Full
-79_109,79,Garth,NA,NA,NA,NA,NA,,,,,NA,81,9,151.486,Adult,Empty
-80_108,80,Garth,NA,NA,NA,NA,NA,,,,,NA,82,9,151.486,Adult,Full
-81_04,81,Garth,NA,NA,NA,NA,NA,,,,,NA,83,1,121.92,Adult,Full
-82_03,82,Garth,NA,NA,NA,NA,NA,,,,,NA,84,1,121.92,Adult,Full
-83_80,83,Garth,NA,NA,NA,NA,NA,,,,,NA,85,Chick nests (not in plot),170.333,Chick,NA
-84_78,84,Garth,NA,NA,NA,NA,NA,,,,,NA,86,8,227.076,Adult,Empty
-85_23,85,Garth,NA,NA,NA,NA,NA,,,,,NA,87,2,160.63,Chick,NA
-86_47,86,Garth,NA,NA,NA,NA,NA,,,,,NA,88,5,283.769,Adult,Full
-87_66,87,Garth,NA,NA,NA,NA,NA,,,,,NA,89,5,283.769,Adult,Empty
-88_16,88,Garth,NA,NA,NA,NA,NA,,,,,NA,90,1,121.92,Adult,Full
-89_29,89,Garth,NA,NA,NA,NA,NA,,,,,NA,91,9,151.486,Adult,Full
-90_101,90,Garth,NA,NA,NA,NA,NA,,,,,NA,92,9,151.486,Adult,Full
-91_01,91,Garth,205,white,fragment,354.06,yes,anatase,unknown,,no good match,Mineral,93,10,157.886,Adult,Full
-92_02,92,Garth,NA,NA,NA,NA,NA,,,,,NA,94,1,121.92,Adult,Full
-93_13,93,Garth,NA,NA,NA,NA,NA,,,,,NA,95,1,121.92,Adult,Full
-94_11,94,Garth,NA,NA,NA,NA,NA,,,,,NA,96,6,209.398,Adult,Full
-95_110,95,Garth,NA,NA,NA,NA,NA,,,,,NA,97,1,121.92,Adult,Full
-96_112,96,Garth,206,black,fragment,472.76,yes,unknown,unknown,can't get a good spectra,no good match,Unknown,98,7,176.174,Adult,Full
-97_11,97,Garth,NA,NA,NA,NA,NA,,,,,NA,99,5,283.769,Adult,Full
-98_127,98,Garth,NA,NA,NA,NA,NA,,,,,NA,100,5,283.769,Adult,Full
-99_92,99,Garth,NA,NA,NA,NA,NA,,,,,NA,101,3,274.625,Adult,Full
-100_73,100,Garth,NA,NA,NA,NA,NA,,,,,NA,102,6,209.398,Adult,Full
-101_50,101,Garth,NA,NA,NA,NA,NA,,,,,NA,103,1,121.92,Adult,Full
-102_107,102,Garth,NA,NA,NA,NA,NA,,,,,NA,104,2,160.63,Chick,NA
-103_26,103,Garth,NA,NA,NA,NA,NA,,,,,NA,105,7,176.174,Adult,Full
-104_103,104,Garth,NA,NA,NA,NA,NA,,,,,NA,106,3,274.625,Adult,Full
-105_123,105,Garth,NA,NA,NA,NA,NA,,,,,NA,107,5,283.769,Adult,Full
-106_31,106,Garth,NA,NA,NA,NA,NA,,,,,NA,108,3,274.625,Adult,Full
-107_33,107,Garth,NA,NA,NA,NA,NA,,,,,NA,109,7,176.174,Adult,Full
-108_88,108,Garth,NA,NA,NA,NA,NA,,,,,NA,110,7,176.174,Adult,Full
-109_125,109,Garth,NA,NA,NA,NA,NA,,,,,NA,,,,,
-110_124,110,Garth,NA,NA,NA,NA,NA,,,,,NA,,,,,
+27_107,27,Alex,43,olive,fragment,305.38,no ,,,lost in transport,,Unknown,27,1,121.92,Adult,Full
+28_97,28,Alex,NA,NA,NA,NA,NA,,,,,NA,28,1,121.92,Adult,Full
+29_84,29,Alex,181,yellow green,fragment,149.84,yes,unknown,unknown,green dye signature - try FTIR,got tape signature,Unknown,29,5,283.769,Adult,Full
+30_39,30,Alex,NA,NA,NA,NA,NA,,,,,NA,30,5,283.769,Adult,Full
+31_51,31,Alex,NA,NA,NA,NA,NA,,,,,NA,31,8,227.076,Adult,Full
+32_07,32,Alex,NA,NA,NA,NA,NA,,,,,NA,32,9,151.486,Adult,Empty
+33_11,33,Alex,59,olive,fragment,429.46,no ,,,,,Unknown,33,10,157.886,Adult,Full
+33_11,33,Alex,60,blue,fragment,214.02,yes,unknown,rubber,dye signature,,Rubber,33,10,157.886,Adult,Full
+34_120,34,Alex,NA,NA,NA,NA,NA,,,,,NA,34,7,176.174,Adult,Full
+35_22,35,Alex,174,red,fragment,103.45,yes,titanium dioxide,unknown,Rutile signature and rusty colour suggest it's a natural mineral.,got tape signature,Mineral,35,Chick nests (not in plot),154.534,Chick,NA
+36_22,36,Alex,NA,NA,NA,NA,NA,,,,,NA,36,Chick nests (not in plot),165.154,Chick,NA
+37_126,37,Alex,28,blue,fragment,276.11,yes,blue dye,unknown,likely plastic,got tape signature,Unknown,37,7,176.174,Adult,Full
+38_16,38,Alex,NA,NA,NA,NA,NA,,,,,NA,38,Chick nests (not in plot),155.143,Chick,NA
+39_70,39,Alex,NA,NA,NA,NA,NA,,,,,NA,39,4,294.437,Adult,Full
+40_64,40,Alex,NA,NA,NA,NA,NA,,,,,NA,40,2,160.63,Adult,Full
+41_106,41,Alex,NA,NA,NA,NA,NA,,,,,NA,41,6,209.398,Adult,Full
+42_75,42,Alex,NA,NA,NA,NA,NA,,,,,NA,42,5,283.769,Adult,Full
+43_44,43,Alex,69,blue,fragment,114.21,no,,,broke apart,,Unknown,43,2,160.63,Chick,NA
+44_23,44,Alex,NA,NA,NA,NA,NA,,,,,NA,44,3,274.625,Adult,Full
+45_28,45,Alex,NA,NA,NA,NA,NA,,,,,NA,45,1,121.92,Adult,Full
+46_45,46,Alex,109,clear,film,280.1,yes,,synthetic rubber (chloroprene),,,Synthetic rubber,46,8,227.076,Adult,Full
+47_46,47,Alex,NA,NA,NA,NA,NA,,,,,NA,47,6,209.398,Adult,Full
+48_130,48,Alex,NA,NA,NA,NA,NA,,,,,NA,48,Chick nests (not in plot),116.434,Chick,NA
+49_129,49,Alex,157,red,fragment,174.66,yes,lepidocrocite (mineral),unknown,mineral,got tape signature,Mineral,49,2,160.63,Adult,Full
+50_90,50,Alex,NA,NA,NA,NA,NA,,,,,NA,50,1,121.92,Adult,Empty
+51_90,51,Garth,NA,NA,NA,NA,NA,,,,,NA,51,3,274.625,Adult,Full
+52_33,52,Garth,NA,NA,NA,NA,NA,,,,,NA,52,1,121.92,Adult,Full
+53_10,53,Garth,NA,NA,NA,NA,NA,,,,,NA,53,10,157.886,Adult,Full
+54_8,54,Garth,198,clear,film,584.74,yes,,chitin from crustacean shell,might be natural,,Chitinous shell,54,9,151.486,Adult,Full
+55_37,55,Garth,NA,NA,NA,NA,NA,,,,,NA,55,2,160.63,Adult,Full
+56_36,56,Garth,199,yellow,fragment,510.59,yes,epidote (mineral),unknown,,no good match,Mineral,56,2,160.63,Adult,Full
+57_20,57,Garth,NA,NA,NA,NA,NA,,,,,NA,57,8,227.076,Adult,Empty
+58_19,58,Garth,200,pink,fragment,432.37,yes,,polypropylene,,,Polypropylene,58,Chick nests (not in plot),169.469,Chick,NA
+59_94,59,Garth,NA,NA,NA,NA,NA,,,,,NA,59,5,283.769,Adult,Full
+60_105,60,Garth,NA,NA,NA,NA,NA,,,,,NA,60,6,209.398,Adult,Full
+61_86,61,Garth,201,black,fragment,120.96,yes,unknown,,can't get a good spectra,,Unknown,61,8,227.076,Adult,Full
+62_85,62,Garth,NA,NA,NA,NA,NA,,,,,NA,62,3,274.625,Adult,Full
+63_98,63,Garth,NA,NA,NA,NA,NA,,,,,NA,63,6,209.398,Adult,Full
+64_87,64,Garth,NA,NA,NA,NA,NA,,,,,NA,64,6,209.398,Adult,Full
+65_99,65,Garth,202,pink,gel,508.77,yes,unknown,unknown,can't get a good spectra,got tape signature,Unknown,65,6,209.398,Adult,Full
+66_35,66,Garth,NA,NA,NA,NA,NA,,,,,NA,66,6,209.398,Adult,Empty
+67_82,67,Garth,NA,NA,NA,NA,NA,,,,,NA,67,6,209.398,Adult,Full
+67_96,68,Garth,203,blue,fragment,751.33,yes,,PET,,,Polyethylene terepthalate,68,6,209.398,Adult,Empty
+69_56,69,Garth,NA,NA,NA,NA,NA,,,,,NA,69,4,294.437,Adult,Full
+70_38,70,Garth,NA,NA,NA,NA,NA,,,,,NA,70,3,274.625,Adult,Full
+71_12,71,Garth,NA,NA,NA,NA,NA,,,,,NA,71,10,157.886,Adult,Full
+72_18,72,Garth,NA,NA,NA,NA,NA,,,,,NA,72,Chick nests (not in plot),159.41,Chick,NA
+73_05,73,Garth,204,green,fragment,362.46,yes,plattnerite,unknown,,no good match,Mineral,73,8,227.076,Adult,Full
+74_17,74,Garth,NA,NA,NA,NA,NA,,,,,NA,74,10,157.886,Adult,Empty
+75_15,75,Garth,NA,NA,NA,NA,NA,,,,,NA,75,Chick nests (not in plot),162.154,Chick,NA
+76_57,76,Garth,NA,NA,NA,NA,NA,,,,,NA,76,1,121.92,Adult,Empty
+77_74,77,Garth,NA,NA,NA,NA,NA,,,,,NA,77,6,209.398,Adult,Full
+78_43,78,Garth,NA,NA,NA,NA,NA,,,,,NA,78,1,121.92,Adult,Empty
+79_109,79,Garth,NA,NA,NA,NA,NA,,,,,NA,79,1,121.92,Adult,Full
+80_108,80,Garth,NA,NA,NA,NA,NA,,,,,NA,80,1,121.92,Adult,Full
+81_04,81,Garth,NA,NA,NA,NA,NA,,,,,NA,81,9,151.486,Adult,Empty
+82_03,82,Garth,NA,NA,NA,NA,NA,,,,,NA,82,9,151.486,Adult,Full
+83_80,83,Garth,NA,NA,NA,NA,NA,,,,,NA,83,1,121.92,Adult,Full
+84_78,84,Garth,NA,NA,NA,NA,NA,,,,,NA,84,1,121.92,Adult,Full
+85_23,85,Garth,NA,NA,NA,NA,NA,,,,,NA,85,Chick nests (not in plot),170.333,Chick,NA
+86_47,86,Garth,NA,NA,NA,NA,NA,,,,,NA,86,8,227.076,Adult,Empty
+87_66,87,Garth,NA,NA,NA,NA,NA,,,,,NA,87,2,160.63,Chick,NA
+88_16,88,Garth,NA,NA,NA,NA,NA,,,,,NA,88,5,283.769,Adult,Full
+89_29,89,Garth,NA,NA,NA,NA,NA,,,,,NA,89,5,283.769,Adult,Empty
+90_101,90,Garth,NA,NA,NA,NA,NA,,,,,NA,90,1,121.92,Adult,Full
+91_01,91,Garth,205,white,fragment,354.06,yes,anatase,unknown,,no good match,Mineral,91,9,151.486,Adult,Full
+92_02,92,Garth,NA,NA,NA,NA,NA,,,,,NA,92,9,151.486,Adult,Full
+93_13,93,Garth,NA,NA,NA,NA,NA,,,,,NA,93,10,157.886,Adult,Full
+94_11,94,Garth,NA,NA,NA,NA,NA,,,,,NA,94,1,121.92,Adult,Full
+95_110,95,Garth,NA,NA,NA,NA,NA,,,,,NA,95,1,121.92,Adult,Full
+96_112,96,Garth,206,black,fragment,472.76,yes,unknown,unknown,can't get a good spectra,no good match,Unknown,96,6,209.398,Adult,Full
+97_11,97,Garth,NA,NA,NA,NA,NA,,,,,NA,97,1,121.92,Adult,Full
+98_127,98,Garth,NA,NA,NA,NA,NA,,,,,NA,98,7,176.174,Adult,Full
+99_92,99,Garth,NA,NA,NA,NA,NA,,,,,NA,99,5,283.769,Adult,Full
+100_73,100,Garth,NA,NA,NA,NA,NA,,,,,NA,100,5,283.769,Adult,Full
+101_50,101,Garth,NA,NA,NA,NA,NA,,,,,NA,101,3,274.625,Adult,Full
+102_107,102,Garth,NA,NA,NA,NA,NA,,,,,NA,102,6,209.398,Adult,Full
+103_26,103,Garth,NA,NA,NA,NA,NA,,,,,NA,103,1,121.92,Adult,Full
+104_103,104,Garth,NA,NA,NA,NA,NA,,,,,NA,104,2,160.63,Chick,NA
+105_123,105,Garth,NA,NA,NA,NA,NA,,,,,NA,105,7,176.174,Adult,Full
+106_31,106,Garth,NA,NA,NA,NA,NA,,,,,NA,106,3,274.625,Adult,Full
+107_33,107,Garth,NA,NA,NA,NA,NA,,,,,NA,107,5,283.769,Adult,Full
+108_88,108,Garth,NA,NA,NA,NA,NA,,,,,NA,108,3,274.625,Adult,Full
+109_125,109,Garth,NA,NA,NA,NA,NA,,,,,NA,109,7,176.174,Adult,Full
+110_124,110,Garth,NA,NA,NA,NA,NA,,,,,NA,110,7,176.174,Adult,Full
 B1,B1,Alex,NA,NA,NA,NA,NA,,,,,NA,,,,,
 B2,B2,Alex,NA,NA,NA,NA,NA,,,,,NA,,,,,
 B3,B3,Alex,NA,NA,NA,NA,NA,,,,,NA,,,,,
